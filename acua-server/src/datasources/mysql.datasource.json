@@ -1,0 +1,8 @@
+{
+  "name": "mysql",
+  "connector": "mysql",
+  "host": "acuadatabase.mysql.database.azure.com",
+  "user": "admin_master@acuadatabase",
+  "password": "Csula2020",
+  "database": "quickstartdb"
+}
